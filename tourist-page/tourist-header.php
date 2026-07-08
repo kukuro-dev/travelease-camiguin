@@ -172,7 +172,7 @@ $catResult = $conn->query($catSql);
         </li>
 
         <li class="nav-item nav-logout">
-          <a class="nav-link" href="../users/landing-page.php">
+          <a class="nav-link" href="../users/logout.php">
             <i class="fas fa-sign-out-alt"></i> Logout
           </a>
         </li>

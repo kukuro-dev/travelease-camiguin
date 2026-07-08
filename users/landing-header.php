@@ -484,7 +484,7 @@ if (session_status() == PHP_SESSION_NONE) {
 
                 <!-- Desktop Navigation Links (Hidden on mobile/tablet) -->
                 <ul class="nav-links">
-                    <li><a class="nav-link-item" href="/camiguin-rental/landing-page.php">
+                    <li><a class="nav-link-item" href="/camiguin-rental/index.php">
                         <i class="fas fa-home"></i>
                         <span>Home</span>
                     </a></li>
@@ -520,7 +520,7 @@ if (session_status() == PHP_SESSION_NONE) {
             <div id="mobileMenu" class="mobile-menu">
                 <ul class="mobile-menu-list">
                     <li class="mobile-menu-item">
-                        <a class="mobile-menu-link" href="/camiguin-rental/landing-page.php#home">
+                        <a class="mobile-menu-link" href="/camiguin-rental/index.php#home">
                             <i class="fas fa-home"></i>
                             <span>Home</span>
                         </a>
