@@ -173,14 +173,21 @@ travelease-camiguin/
 Add screenshots showing:
 
 * Home Page
+  <img width="1898" height="911" alt="image" src="https://github.com/user-attachments/assets/db1999bf-2f9e-46c4-a923-4bc5c9731bb8" />
 * Tourist Destination Page
+* <img width="1882" height="908" alt="image" src="https://github.com/user-attachments/assets/b11a722d-cd78-4b99-9c3d-b474399661a1" />
 * Resort and Cottage Listings
+* <img width="1892" height="911" alt="image" src="https://github.com/user-attachments/assets/c6a471c1-92de-487d-8a70-f8ac71cc39ac" />
 * Rental Services
+* <img width="1888" height="927" alt="image" src="https://github.com/user-attachments/assets/686909db-fdec-4dc7-8014-8d4f7f8f14d5" />
 * Tourist Dashboard
-* Provider Dashboard
+* <img width="1891" height="906" alt="image" src="https://github.com/user-attachments/assets/f9d7ea5b-324e-4e9a-b548-4ac2d726537d" />
 * Chat Feature
+* <img width="1888" height="907" alt="image" src="https://github.com/user-attachments/assets/b212457d-3db2-4182-9696-1f7a2cda279e" />
 * Reviews and Ratings
-* AI Assistant Interface
+* <img width="1547" height="818" alt="image" src="https://github.com/user-attachments/assets/0927b6d5-daae-4b65-b0f7-fe8293df4464" />
+
+
 
 Example:
 
