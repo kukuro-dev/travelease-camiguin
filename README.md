@@ -189,23 +189,11 @@ Add screenshots showing:
 
 
 
-Example:
-
-```text
-screenshots/
-
-├── home.png
-├── destinations.png
-├── resorts.png
-├── rentals.png
-├── chat.png
-├── reviews.png
-└── ai-assistant.png
 ```
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 Through this project, I gained experience in:
 
@@ -221,7 +209,7 @@ Through this project, I gained experience in:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 * Online booking and reservation system
 * Online payment integration
@@ -233,7 +221,7 @@ Through this project, I gained experience in:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Aaron Casimir G. Aranas**
 
